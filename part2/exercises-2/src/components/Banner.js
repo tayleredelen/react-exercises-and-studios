@@ -1,8 +1,10 @@
+//Creates a banner for the application
+
 import './styles.css';
 
 function Banner(){
    return(
-      <h1>Hello, World!</h1>
+      <h1 className="header">The Amazing Ocean</h1>
    );
 }
 
