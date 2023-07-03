@@ -3,16 +3,17 @@
 
 
 import './styles.css';
-import Button from './Button';
+import Button from './Button.js';
+import React from 'react';
 
 
 function Profile()
 {
    return(
-      <>
+      <div>
          <h3>Coming Soon! Profiles of Ocean creatures</h3>
          <Button />
-      </>
+      </div>
    );
 }
 

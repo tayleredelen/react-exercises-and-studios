@@ -1,6 +1,7 @@
 //Creates a banner for the application
 
 import './styles.css';
+import React from 'react';
 
 function Banner(){
    return(
