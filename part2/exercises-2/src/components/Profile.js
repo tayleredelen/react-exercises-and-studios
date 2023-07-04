@@ -5,13 +5,13 @@
 import './styles.css';
 import Button from './Button.js';
 import React from 'react';
+import oceans from './oceans.json';
 
 
 function Profile()
 {
    return(
       <div>
-         <h3>Coming Soon! Profiles of Ocean creatures</h3>
          <Button />
       </div>
    );
